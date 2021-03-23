@@ -1,0 +1,5 @@
+outs:
+- md5: 406c37a244eb62b58c1d240b82e49e53.dir
+  size: 842
+  nfiles: 1
+  path: saved_fom_inference
